@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  Lesson_222_GitHubFun
-//
-//  Created by MATVEY KRAEYV on 17/04/2019.
-//  Copyright © 2019 MATVEY KRAEYV. All rights reserved.
-//
+
 
 import UIKit
 
